@@ -1,6 +1,6 @@
-# ROS2_Camera_Lidar_Calibration
+# camera_lidar_fusion_ranging
 
-A ROS2 package for calibrate camera and lidar
+A demo for camera and lidar fusion ranging
 
-camera: Hikrobot MV-CS016-10UC
-lidar: Livox MID-70
+
+camera: Hikrobot MV-CS016-10UC,lidar: Livox MID-70
